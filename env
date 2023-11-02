@@ -1,0 +1,21 @@
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=pk_test_YW1hemVkLW1hbi01OC5jbGVyay5hY2NvdW50cy5kZXYk
+CLERK_SECRET_KEY=sk_test_OOSIeYzti5qwoe3UGEMYpvXvn8KmWN1ww1e15OPG2G
+NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
+NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
+NEXT_PUBLIC_CLERK_AFTER_SIGN_IN_URL=/
+NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=/
+
+# This was inserted by `prisma init`:
+# Environment variables declared in this file are automatically made available to Prisma.
+# See the documentation for more detail: https://pris.ly/d/prisma-schema#accessing-environment-variables-from-the-schema
+
+# Prisma supports the native connection string format for PostgreSQL, MySQL, SQLite, SQL Server, MongoDB and CockroachDB.
+# See the documentation for all the connection string options: https://pris.ly/d/connection-strings
+
+DATABASE_URL='mysql://7kyonxgx9fydoyif4xlx:pscale_pw_v1ugKxAOl3r0XFmgs4kcQaQMMKlqtMViDRx21o3N5xZ@aws.connect.psdb.cloud/portofolio?sslaccept=strict'
+UPLOADTHING_SECRET=sk_live_9e5981229a743a68e7aa764328af4cb8119439968791973afdf60948b2bacd83
+UPLOADTHING_APP_ID=a7jmfuh1s8
+
+MUX_TOKEN_ID= 57d0aa42-31de-4792-a7b6-f06beb89302e
+MUX_TOKEN_SECRET= 1uoOqVTPv97WwWcDnAjEqGSQtkw+VSh60TB5IB4h4VHiAtHBowL3V6rUX8o8gHb/Nn3p94sF78a
+NEXT_PUBLIC_TEACHER_ID= user_2XDCG1oen5sWeHhXOh4WMM2ITM1
